@@ -13,7 +13,7 @@ target/
 *.ipr
 .gigaide
 .idea
-.homeworks_objects
+homeworks_objects
 ### Eclipse ###
 .apt_generated
 .classpath
